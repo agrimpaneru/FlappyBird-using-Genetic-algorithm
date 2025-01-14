@@ -22,3 +22,16 @@ Make sure you have the following installed:
 You can install the dependencies using:
 ```bash
 pip install pygame neat-python
+
+## Gameplay Screenshot
+
+Here’s a glimpse of the gameplay:
+
+![Gameplay Screenshot](Screenshots/2.jpg)
+![Gameplay Screenshot](Screenshots/1.jpg)
+
+## Training Progress Screenshot
+
+See the AI training process:
+
+![Training Progress](Screenshots/training.jpg)
