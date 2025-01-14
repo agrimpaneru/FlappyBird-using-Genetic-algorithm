@@ -20,7 +20,7 @@ Make sure you have the following installed:
   - `neat-python`
 
 You can install the dependencies using:
-```bash
+
 pip install pygame neat-python
 
 ## Gameplay Screenshot
