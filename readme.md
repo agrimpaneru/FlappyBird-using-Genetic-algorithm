@@ -1,6 +1,10 @@
 # Flappy Bird AI Using NEAT
 
 This project implements an AI agent to play Flappy Bird using the **NEAT (NeuroEvolution of Augmenting Topologies)** algorithm. The bird learns to play by evolving its neural network over generations.
+## Inspiration
+
+This project is inspired by the implementation of NEAT by **Tech With Tim**. Check out the tutorial series on [YouTube](https://www.youtube.com/watch?v=MMxFDaIOHsE&list=PLzMcBGfZo4-lwGZWXz5Qgta_YNX3_vLS2).
+
 
 ---
 
@@ -13,13 +17,11 @@ This project implements an AI agent to play Flappy Bird using the **NEAT (NeuroE
 ---
 
 ## Prerequisites
-Make sure you have the following installed:
 - Python 3.x
 - Required Python libraries:
   - `pygame`
   - `neat-python`
 
-You can install the dependencies using:
 
 pip install pygame neat-python
 
